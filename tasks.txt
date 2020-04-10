@@ -1,0 +1,10 @@
+tia, Create new user, Use taskManager.py to assign new users to the task manager program., 10 October 2019, 20 October 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 October 2019, 25 October 2019, Yes
+estine, Capstone , complete the capstone project based on the knowledge you have gained so far, 22 March 2020, 25 March 2020, No
+tia, Seat, Stop lying on my seat every time I leave the room. , 22 March 2020, 20 March 2020, No
+nosa, Help, I am struggling, 24 March 2020, 25 March 2020, No
+admin, headphones, purchase headphones for the office, 01 April 2020, 01 May 2020, Yes
+admin, clean, clean the house, 01 April 2020, 21 April 2020, Yes
+llew, floors, sweep the floors, 01 April 2020, 02 April 2020, No
+tia, view min, fix the view mine function, 03 April 2020, 4 April 2020, No
+admin, water plants, please water the plants, 03 April 2020, 4 April 2020, No
